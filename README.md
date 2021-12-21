@@ -1,0 +1,2 @@
+# Sheartsort
+ Sheartsort algorithm - parallel
